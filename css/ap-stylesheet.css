@@ -1,8 +1,4 @@
-/* Generated on: Thu Apr 23 2020 00:13:30 GMT+0000 (Coordinated Universal Time) */
-/* ==========================================================================
-   normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
-   ========================================================================== */
-/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+
 html
 {
   scroll-behavior: smooth;
@@ -496,8 +492,8 @@ blockquote {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  min-height: 600px;
-  padding: 175px 5% 90px;
+  min-height: 220px;
+  padding: 140px 5% 50px;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
@@ -10515,7 +10511,7 @@ blockquote {
 }
 
 .c01_h3 {
-  max-width: 480px;
+  max-width: 600px;
   margin-top: 0px;
   margin-bottom: 25px;
   font-size: 38px;
@@ -10527,17 +10523,50 @@ blockquote {
   font-size: 14px;
   font-weight: 700;
   letter-spacing: 1px;
+  color: rgba(118, 126, 173, 0.59);
+}
+
+.c01_paragraphB {
+  max-width: 600px;
+  margin-bottom: 20px;
+  line-height: 1.4;
+  font-size: 1.9em;
+  font-weight: 600;
+  letter-spacing: 1;
+  color: #0A1F44;
+}
+
+.c01_paragraphM {
+  max-width: 600px;
+  margin-bottom: 20px;
+  line-height: 30px;
+  font-weight: 500;
+  font-size: 1.5em;
+  letter-spacing: 1;
+  color: #0A1F44;
+}
+
+.c01_paragraphS {
+  max-width: 600px;
+  margin-bottom: 20px;
+  line-height: 30px;
+  font-weight: 500;
+  font-size: 1.2em;
+  letter-spacing: 1;
+  color: #0A1F44;
 }
 
 .c01_paragraph {
-  max-width: 560px;
-  margin-bottom: 20px;
-  line-height: 25px;
+  max-width: 600px;
+    margin-bottom: 20px;
+    line-height: 25px;
+    letter-spacing: 1;
+    color: #0A1F44;
 }
 
 .c01_block {
   position: relative;
-  width: 50%;
+  width: 100%;
   padding-right: 55px;
 }
 
@@ -21973,11 +22002,11 @@ blockquote {
   height: 90px;
   margin-right: -13px;
   margin-bottom: 25px;
-  border-style: solid;
-  border-width: 5px;
-  border-color: #fff;
+
+
+
   border-radius: 100px;
-  background-image: url("#0");
+  background-image: url("../images/avatar1.webp");
   background-position: 50% 0%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -21988,11 +22017,11 @@ blockquote {
   height: 90px;
   margin-right: -13px;
   margin-bottom: 25px;
-  border-style: solid;
-  border-width: 5px;
-  border-color: #fff;
+
+
+
   border-radius: 100px;
-  background-image: url("#0");
+  background-image: url("../images/avatar2.webp");
   background-position: 50% 0%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -22003,11 +22032,10 @@ blockquote {
   height: 90px;
   margin-right: -13px;
   margin-bottom: 25px;
-  border-style: solid;
-  border-width: 5px;
-  border-color: #fff;
+
+
   border-radius: 100px;
-  background-image: url("#0");
+  background-image: url("../images/avatar3.webp");
   background-position: 50% 0%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -22018,11 +22046,11 @@ blockquote {
   height: 90px;
   margin-right: -13px;
   margin-bottom: 25px;
-  border-style: solid;
-  border-width: 5px;
-  border-color: #fff;
+
+
+
   border-radius: 100px;
-  background-image: url("#0");
+  background-image: url("../images/avatar4.webp");
   background-position: 50% 0%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -22033,11 +22061,11 @@ blockquote {
   height: 90px;
   margin-right: -13px;
   margin-bottom: 25px;
-  border-style: solid;
-  border-width: 5px;
-  border-color: #fff;
+
+
+
   border-radius: 100px;
-  background-image: url("#0");
+  background-image: url("../images/avatar5.webp");
   background-position: 50% 0%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -22048,11 +22076,9 @@ blockquote {
   height: 90px;
   margin-right: -13px;
   margin-bottom: 25px;
-  border-style: solid;
-  border-width: 5px;
-  border-color: #fff;
+
   border-radius: 100px;
-  background-image: url("#0");
+  background-image: url("../images/avatar6.webp");
   background-position: 50% 0%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -23674,7 +23700,7 @@ blockquote {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  padding: 60px 5% 120px;
+  padding: 0px 5% 100px;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
@@ -23724,6 +23750,7 @@ blockquote {
   margin-bottom: 8px;
   color: #7540ee;
   font-weight: 700;
+  color: rgba(118, 126, 173, 0.59);
   text-align: center;
   letter-spacing: 1px;
 }
@@ -28746,7 +28773,7 @@ blockquote {
     flex-wrap: wrap;
   }
   .t03_avatar_02 {
-    background-image: url("https://assets.website-files.com/5cbc1cadfad96c3229989372/5cfc1a74982a7443cceeca7d_t_avatar.png");
+    background-image: url("#0");
   }
   .b06_blog_image_02 {
     min-height: 290px;
@@ -28889,7 +28916,7 @@ blockquote {
     box-shadow: 1px 1px 25px 0 #f5f7fd;
   }
   .fe09 {
-    padding-top: 120px;
+    padding-top: 0px;
   }
   .cta07_main_wrap {
     -webkit-box-orient: vertical;
@@ -31201,6 +31228,7 @@ blockquote {
   font-weight: 600;
   font-style: normal;
 }
+
 .top
 {
   position: fixed;
