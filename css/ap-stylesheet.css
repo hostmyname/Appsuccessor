@@ -31219,3 +31219,49 @@ blockquote {
   border-radius:25px;
   background:#A382FF;  
 }
+#nvbt:hover>div
+{ 
+  display:block;
+}
+.dtl
+{
+  width: 190px;
+  height:auto;
+  margin-top:40px;
+  margin-left:-75px;
+  border-radius: 15px;
+  background : #232634;  
+  padding:20px;
+  transition-duration : 1s;  
+  opacity:0.9;
+  display:none;
+}
+.dtl>img
+{
+  border-radius:50px;
+  display:block;
+  margin:auto;
+  margin-top:20px;
+  margin-bottom:20px;  
+}
+.dtltxt1
+{
+  color:white;
+  text-align:center;
+  padding-top:5px;
+  font-size:18px;
+}
+.dtltxt2
+{
+  color:white;
+  text-align:center;
+  padding-top:5px;
+  font-size:14px;
+}
+.dtltxt3
+{
+  color:white;
+  text-align:center;
+  padding-top:5px;
+  font-size:12px;
+}
