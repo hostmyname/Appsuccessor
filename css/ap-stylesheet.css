@@ -606,7 +606,10 @@ blockquote {
 }
 
 .c07 {
-  padding: 0px 5%;
+  padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 60px;
+    padding-bottom: 10px;
   background-color: #fff;
 }
 
@@ -723,7 +726,10 @@ blockquote {
 
 .te01 {
   min-height: 400px;
-  padding: 90px 5%;
+  padding-left: 5%;
+  padding-left: 5%;
+  padding-top: 90px;
+  padding-bottom: 50px;
   background-color: #fff;
 }
 
@@ -765,7 +771,7 @@ blockquote {
   height: 120px;
   margin-bottom: 25px;
   border-radius: 100px;
-  background-image: url("https://assets.website-files.com/5cbc1cadfad96c3229989372/5d329ed0281f9b6eda2275d5_forest_avatar_05.jpg");
+  background-image: url("../images/avatar1.webp");
   background-position: 50% 0%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -13532,7 +13538,7 @@ blockquote {
   margin-top: 15px;
   margin-bottom: 15px;
   border-radius: 100px;
-  background-image: url("https://assets.website-files.com/5cbc1cadfad96c3229989372/5d329ed07768685c7e4b6ac3_forest_avatar_04.jpg");
+  background-image: url("../images/avatar1.webp");
   background-position: 50% 0%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -13722,7 +13728,7 @@ blockquote {
   -ms-flex-align: center;
   align-items: center;
   background-color: #7540ee;
-  background-image: url("https://assets.website-files.com/5cbc1cadfad96c3229989372/5e1e5819fa3d44478b41560f_flowbase_wave.png");
+  background-image: url("../images/wave.webp");
   background-position: 50% 100%;
   background-size: cover;
 }
@@ -13922,7 +13928,7 @@ blockquote {
   height: 90px;
   margin-bottom: 25px;
   border-radius: 100px;
-  background-image: url("https://assets.website-files.com/5cbc1cadfad96c3229989372/5d329ecfd1cb7f8c80309c03_forest_avatar_06.jpg");
+  background-image: url("../images/avatar1.webp");
   background-position: 50% 0%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -14011,7 +14017,7 @@ blockquote {
   height: 90px;
   margin-bottom: 25px;
   border-radius: 100px;
-  background-image: url("https://assets.website-files.com/5cbc1cadfad96c3229989372/5d329ed07768685c7e4b6ac3_forest_avatar_04.jpg");
+  background-image: url("../images/avatar1.webp");
   background-position: 50% 0%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -14022,7 +14028,7 @@ blockquote {
   height: 90px;
   margin-bottom: 25px;
   border-radius: 100px;
-  background-image: url("https://assets.website-files.com/5cbc1cadfad96c3229989372/5d329ed047f4bb7c0f94e075_forest_avatar_02.jpg");
+  background-image: url("../images/avatar1.webp");
   background-position: 50% 0%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -14032,7 +14038,7 @@ blockquote {
   width: 150px;
   height: 150px;
   border-radius: 100px;
-  background-image: url("https://assets.website-files.com/5cbc1cadfad96c3229989372/5d329ed07768685c7e4b6ac3_forest_avatar_04.jpg");
+  background-image: url("../images/avatar1.webp");
   background-position: 50% 0%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -14044,7 +14050,7 @@ blockquote {
   height: 120px;
   margin-bottom: 25px;
   border-radius: 100px;
-  background-image: url("https://assets.website-files.com/5cbc1cadfad96c3229989372/5d329ed07768685c7e4b6ac3_forest_avatar_04.jpg");
+  background-image: url("../images/avatar2.webp");
   background-position: 50% 0%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -14055,7 +14061,7 @@ blockquote {
   height: 120px;
   margin-bottom: 25px;
   border-radius: 100px;
-  background-image: url("https://assets.website-files.com/5cbc1cadfad96c3229989372/5d329ecfd1cb7f7e2a309c01_forest_avatar_03.jpg");
+  background-image: url("../images/avatar3.webp");
   background-position: 50% 0%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -14066,7 +14072,7 @@ blockquote {
   height: 120px;
   margin-bottom: 25px;
   border-radius: 100px;
-  background-image: url("https://assets.website-files.com/5cbc1cadfad96c3229989372/5d329ecfd1cb7f8c80309c03_forest_avatar_06.jpg");
+  background-image: url("../images/avatar4.webp");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -20224,7 +20230,7 @@ blockquote {
 
 .form05_input {
   display: inline-block;
-  width: 250px;
+  width: 350px;
   height: 40px;
   margin-bottom: 0px;
   padding-bottom: 10px;
@@ -20233,7 +20239,7 @@ blockquote {
   border-bottom-width: 2px;
   border-bottom-color: #ebecf0;
   opacity: 0.5;
-  color: #ebecf0;
+  color: #353535;
   font-size: 20px;
   line-height: 40px;
   font-weight: 300;
@@ -20262,16 +20268,16 @@ blockquote {
   color: #4e5d78;
 }
 
-.form05_input.date {
-  width: 120px;
+.form05_input.company {
+  width: 350px;
 }
 
-.form05_input.budget {
-  width: 150px;
+.form05_input.phone {
+  width: 250px;
 }
 
 .form05_input.project {
-  width: 280px;
+  width: 315px;
 }
 
 .form05_wrap {
